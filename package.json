@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "passport": "^0.4.0",
+    "passport-strava-oauth2": "^0.1.3",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "strava-v3": "^1.14.0"
   },
   "scripts": {
     "start": "react-scripts start",
