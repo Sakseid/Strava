@@ -13,6 +13,9 @@ class App extends Component {
         <body className="App-body">
           <table>
             <tr>
+              <th className="Tabell" colspan="3">Kvernhusheia climb</th>
+            </tr>
+            <tr>
             <th className="Tabell">Plass</th>
             <th className="Tabell">Navn</th>
             <th className="Tabell">Tid</th>

@@ -26,6 +26,15 @@
   color: #61dafb;
 }
 
+.Tabel-header {
+  column-span: "3";
+  width: 100px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 3px;
+  border-spacing:
+}
+
 .Tabell {
   width: 100px;
   border: 1px solid black;
