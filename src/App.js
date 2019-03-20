@@ -11,7 +11,18 @@ class App extends Component {
           <p>Jærnesheias sprekeste</p>
         </header>
         <body className="App-body">
-          
+          <table>
+            <tr>
+            <th className="Tabell">Plass</th>
+            <th className="Tabell">Navn</th>
+            <th className="Tabell">Tid</th>
+            </tr>
+            <tr>
+              <td className="Tabell">1</td>
+              <td className="Tabell">Vegar</td>
+              <td className="Tabell">3:10</td>
+            </tr>
+          </table>
           </body>
       </div>
     );
