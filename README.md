@@ -1,6 +1,7 @@
 #Strava
 
 Prosjekt for å lære React og API-er. 
+----------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
